@@ -1,1 +1,2 @@
-Projeto simples. Somente para um quebra galho e quem queira desenvolver mais para seu E-commerce.
+Integração entre Pagar.me e TotalVoice para enviar o código de barras do boleto para cliente via SMS.
+Commit simples. Somente para um quebra galho e servir de ideia pra quem queira desenvolver esta funcionalidad em seu E-commerce.
