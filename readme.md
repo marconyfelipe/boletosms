@@ -1,2 +1,2 @@
-Integração entre Pagar.me e TotalVoice para enviar o código de barras do boleto para cliente via SMS.
-Commit simples. Somente para um quebra galho e servir de ideia pra quem queira desenvolver esta funcionalidad em seu E-commerce.
+Integração entre Pagar.me e TotalVoice para enviar o código de barras do boleto para o cliente via SMS.
+Commit simples. Somente para um quebra galho e servir de ideia pra quem queira desenvolver esta funcionalidade em seu E-commerce.
